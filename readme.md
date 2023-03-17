@@ -10,7 +10,7 @@ There are three top-level folders:
 2. `/contracts` - contains the solidity contract
 3. `/tests` - contains tests for the solidity contract
 
-## Setup
+## Setup 
 
 Install dependencies in the top-level directory with `npm install`.
 
